@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi!
+
+I'm Oleksandr, developer from Ukraine, and my country has been invaded by Russian Armed Forces.
+Please consider donating to the foundations, which I support myself:
+
+https://savelife.in.ua/en/donate-en/
+
+https://prytulafoundation.org/en/donation
 
 <!--
 **Dreamescaper/Dreamescaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
