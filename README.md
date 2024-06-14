@@ -1,7 +1,7 @@
 ## Hi!
 
 I'm Oleksandr, developer from Ukraine, and my country has been invaded by Russian Armed Forces.
-Please consider donating to the foundations, which I support myself:
+Please consider donating to the foundations, which I support and donate myself:
 
 https://savelife.in.ua/en/donate-en/
 
